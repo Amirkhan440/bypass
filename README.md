@@ -1,0 +1,2 @@
+# bypass
+Bypass Paid Commands 
